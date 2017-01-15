@@ -1,2 +1,1 @@
-# hello-world
-this is my new hello world repository
+Hello I'm jivanf and I'm new to GitHub. My favorite color is extra-splash-green cuz it comes from MegaLand, the rollercoaster world. ;) But i lilke it cuz it moves when you touch it, (yes, you can touch the colors)
